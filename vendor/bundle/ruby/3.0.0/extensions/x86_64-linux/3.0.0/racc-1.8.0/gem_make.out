@@ -1,0 +1,15 @@
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-3.0.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.2/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240725-27596-f59yhd sitelibdir\=./.gem.20240725-27596-f59yhd clean
+
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240725-27596-f59yhd sitelibdir\=./.gem.20240725-27596-f59yhd
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240725-27596-f59yhd sitelibdir\=./.gem.20240725-27596-f59yhd install
+/usr/bin/install -m 0755 cparse.so ./.gem.20240725-27596-f59yhd/racc

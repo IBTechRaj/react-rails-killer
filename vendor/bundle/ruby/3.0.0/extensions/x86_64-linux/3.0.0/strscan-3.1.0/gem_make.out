@@ -1,0 +1,17 @@
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+/usr/share/rvm/rubies/ruby-3.0.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.2/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240725-27596-trj1td sitelibdir\=./.gem.20240725-27596-trj1td clean
+
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240725-27596-trj1td sitelibdir\=./.gem.20240725-27596-trj1td
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/raj/bothends/autorefresh_webpacker/vendor/bundle/ruby/3.0.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240725-27596-trj1td sitelibdir\=./.gem.20240725-27596-trj1td install
+/usr/bin/install -m 0755 strscan.so ./.gem.20240725-27596-trj1td
