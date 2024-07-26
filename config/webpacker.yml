@@ -86,7 +86,7 @@ production:
   # Production depends on precompilation of packs prior to booting for performance.
   compile: false
 
- dev_server:
+  dev_server:
     https: false
     host: localhost
     port: 3035
@@ -104,7 +104,7 @@ production:
       'Access-Control-Allow-Origin': '*'
     watch_options:
       ignored: '**/node_modules/**'
-      
+
   # Extract and emit a css file
   extract_css: true
 
