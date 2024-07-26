@@ -3,7 +3,7 @@
 set -o errexit
 
 bundle install
- rails webpacker:install
+ bundle exec rails webpacker:install
 bin/webpack-dev-server
 
 # bundle exec rails assets:precompile
