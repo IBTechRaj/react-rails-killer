@@ -4,6 +4,7 @@ set -o errexit
 
 bundle install
 bundle exec rails webpacker:install
+gem install foreman
 # bin/webpack-dev-server
 
 # bundle exec rails assets:precompile
